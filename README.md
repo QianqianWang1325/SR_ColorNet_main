@@ -1,18 +1,17 @@
-# test2
-test2
+# SR_ColorNet
+SR_ColorNet
 
 1.Data preparation
-Taking the WorldView II dataset as an example WorldView II
-
-  --train
-    --pan
-    --ms
-  --val
-    --pan
-    --ms
-  --test
-    --pan
-    --ms
+Taking the WorldView II dataset as an example WorldView-II  
+    >>--train  
+        >>>>--pan  
+        >>>>--ms  
+    >>--val  
+        >>>>--pan  
+        >>>>--ms  
+    >>--test  
+        >>>>--pan  
+        >>>>--ms  
 
 2.Train
 Put the training/val/test data into the corresponding path in main.py.
