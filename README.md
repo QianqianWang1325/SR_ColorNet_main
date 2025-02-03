@@ -2,8 +2,8 @@
 test2
 
 1.Data preparation
-Taking the WorldView II dataset as an example
-WorldView II
+Taking the WorldView II dataset as an example WorldView II
+
   --train
     --pan
     --ms
