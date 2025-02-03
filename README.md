@@ -19,6 +19,7 @@ Put the training/val/test data into the corresponding path in main.py.
 python main.py
 
 3.Test
-The pre trained model generated during the training process follows the ./log_1/pkl/best. 
+The pre trained model generated during the training process follows the ./log_1/pkl/best.   
 # test
+[pre-train model](https://pan.baidu.com/s/1ghTCKOnyHOki6U0I0mX1WA?pwd=12SR)  Extract code: 12SR  
 python main.py
